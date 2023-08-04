@@ -1,4 +1,4 @@
-# project
+# SmartServ
 
 A new Flutter project.
 
